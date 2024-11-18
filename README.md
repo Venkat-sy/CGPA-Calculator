@@ -1,7 +1,7 @@
 # CGPA-Calculator
 ---calc---
 
-##hello world
+
 # CGPA Calculator
 
 A simple command-line tool to calculate CGPA (Cumulative Grade Point Average) based on student grades and credit hours for multiple semesters.
